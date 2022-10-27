@@ -1,0 +1,21 @@
+
+Variable: es un medio para guardar un dato y asignarle un valor determinado, de modo que se pueda usar en el futuro.
+para hacer una variable se utiliza el termino 'var' seguido del espacio y el nombre de la variable. Tambien 
+el = sirve para asignar el valor a la variable.
+
+Instrumentos de cuerda: un string es cualquier bloque de texto, siempre puesto entre comillas simple o doble. Por
+ej. : Var nombre = "Agus". En este ejemplo "Agus" es el string.
+
+Funcion: Una funcion es un conjuntos de datos que contiene un codigo que se va a ejecutar al 
+mencionarla. Una funcion comienza con la keyword 'function' a la que le sigue el nombre de la funcion dado.
+Despues parentesis () y por ultimo corchetes {} que van a incluir el codigo a ejecutar. La estructrura
+de la funcion es: function nombre() {}.
+
+Argumento: el argumento es el dato o variable que despues va a ser ejecutado en el codigo de la funcion. 
+Puede ser una o mas seradas por comas. 
+
+return: la declaracion de retorno es la unica forma en que los datos pueden ser validos fuera de la funcion. 
+
+if: La keyword 'if' se usa para ejecutar el codigo dado en el caso de que sea true, o continuar si no lo es dando false.
+
+valores boleanos: son quellos que en respuesta tiene solo dos opciones. En java es true o false. Es decir que son binarios. 
